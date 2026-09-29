@@ -9,3 +9,4 @@ def convert_temperature(temprature, unit):
 
 print(convert_temperature(30, "C"))
 print(convert_temperature(86, "F"))
+#finish menyelesaikan nomor 1
